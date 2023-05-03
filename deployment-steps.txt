@@ -1,15 +1,15 @@
 ## Save pass:
 
-ta0rW+JXf/LfkE2KBJgSdTVzi34436S+ACRAbqmA/
+password you got from azure
 
 
 ## Run from terminal:
 
-docker build -t bappyapp.azurecr.io/mltest:latest .
+docker build -t ankitapp.azurecr.io/mltest:latest .
 
-docker login bappyapp.azurecr.io
+docker login ankitappapp.azurecr.io
 
-docker push bappyapp.azurecr.io/mltest:latest
+docker push ankitapp.azurecr.io/mltest:latest
 
 
 ## Deployment Steps:
